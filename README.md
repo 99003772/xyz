@@ -7,3 +7,5 @@
 [![Code Quality - Static Code - Cppcheck](https://github.com/99003772/xyz/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/99003772/xyz/actions/workflows/cppcheck.yml)
 
 [![Contribution Check - Git Inspector](https://github.com/99003772/xyz/actions/workflows/Update%20gitinspector.yml/badge.svg)](https://github.com/99003772/xyz/actions/workflows/Update%20gitinspector.yml)
+
+[![Unit Testing - Unity](https://github.com/99003772/xyz/actions/workflows/unity.yml/badge.svg)](https://github.com/99003772/xyz/actions/workflows/unity.yml)
